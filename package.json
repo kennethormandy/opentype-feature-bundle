@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "description": "Syntax highlighting and snippets for OpenType feature development in Atom.",
   "repository": "https://github.com/kennethormandy/opentype-feature-bundle",
+  "keywords": ["language-fea", "fea", "opentype", "type", "typeface", "font", "otf"],
   "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
   "contributors": [
     "Brook Elgie <hi@brookelgie.com> (http://brookelgie.com)"
