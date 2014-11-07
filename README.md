@@ -4,22 +4,18 @@ This covers Adobe’s [OpenType Feature File Specification](http://partners.adob
 
 ## Installation
 
-### Sublime Text (with Package Control)
+Atom Package Manager: Install Package `OpenType Feature Bundle`
 
-1. Package Control: Install Package `OpenType Feature Bundle`
-2. Restart Sublime Text
+#### Other text editors
 
-## Atom
+This repository only contains the source code for the Atom package, which is based upon [Brook Elgie’s original Textmate bundle](https://github.com/brew/opentype-feature-bundle).
 
-1. Atom Package Manager: Install Package `OpenType Feature Bundle`
+- [Sublime Text](https://github.com/brew/opentype-feature-bundle#sublime-text-with-package-control)
+- [Textmate](https://github.com/brew/opentype-feature-bundle#textmate-using-git)
 
-### Textmate (using git)
+## License
 
-1. Make a new bundles folder `mkdir -p ~/Library/Application\ Support/TextMate/Bundles`
-2. Open the new folder `cd ~/Library/Application\ Support/TextMate/Bundles`
-3. Clone to your new folder `git clone git://github.com/brew/opentype-feature-bundle.git "opentype-feature-bundle.tmbundle"`
-4. Reload TextMate Bundles `osascript -e 'tell app "TextMate" to reload bundles'`
+[The MIT License (MIT)](LICENSE.md)
 
-My thanks to [Tal Leming](http://www.typesupply.com/) for contributing some snippets and keywords before this became a Github project.
-
-I'm more than happy to accept pull requests!
+Copyright © 2007–2014 [Brook Elgie](http://brookelgie.com)
+Copyright © 2014 [Kenneth Ormandy](http://kennethormandy.com)

@@ -1,9 +1,13 @@
 {
   "name": "opentype-feature-bundle",
-  "version": "1.3.0",
-  "description": "Syntax highlighting and snippets for OpenType feature development in Textmate, Sublime Text, and Atom.",
-  "repository": "https://github.com/brew/opentype-feature-bundle",
-  "author": "Brook Elgie <hi@brookelgie.com> (http://brookelgie.com)",
+  "version": "0.1.0",
+  "version": "0.1.0",
+  "description": "Syntax highlighting and snippets for OpenType feature development in Atom.",
+  "repository": "https://github.com/kennethormandy/opentype-feature-bundle",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
+  "contributors": [
+    "Brook Elgie <hi@brookelgie.com> (http://brookelgie.com)"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
