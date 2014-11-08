@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright © 2007–2014 [Brook Elgie](http://brookelgie.com)
+Copyright © 2007–2014 [Brook Elgie](http://brookelgie.com)<br/>
 Copyright © 2014 [Kenneth Ormandy](http://kennethormandy.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
