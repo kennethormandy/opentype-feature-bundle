@@ -6,7 +6,7 @@ This covers Adobe’s [OpenType Feature File Specification](http://partners.adob
 
 To add the package to Atom, search for the package “OpenType Feature Bundle.”
 
-[![A screenshot showing where to search for the OpenType Feature Bundle in Atom.](assets/preview-1.png)](http://github.com/kennethormandy/opentype-feature-bundle)
+[![A screenshot showing where to search for the OpenType Feature Bundle in Atom.](https://raw.githubusercontent.com/kennethormandy/opentype-feature-bundle/master/assets/preview-1.png)](http://github.com/kennethormandy/opentype-feature-bundle)
 
 #### With apm
 
