@@ -14,8 +14,10 @@
   ],
   "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
   "contributors": [
-    "Brook Elgie   <hi@brookelgie.com>    (http://brookelgie.com)",
-    "Jeff Sandberg <paradox460@gmail.com> (http://paradox.io)"
+    "Brook Elgie     <hi@brookelgie.com>        (http://brookelgie.com)",
+    "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
+    "Jeff Sandberg   <paradox460@gmail.com>     (http://paradox.io)",
+    "Andreas Larsen  <andreas@larsenwork.com>   (http://larsenwork.com)"
   ],
   "license": "MIT",
   "engines": {
