@@ -29,5 +29,5 @@ This repository only contains the source code for the Atom package, which is bas
 
 [The MIT License (MIT)](LICENSE.md)
 
-Copyright © 2007–2014 [Brook Elgie](http://brookelgie.com)<br/>
-Copyright © 2014 [Kenneth Ormandy](http://kennethormandy.com)
+Copyright © 2007–2015 [Brook Elgie](http://brookelgie.com)<br/>
+Copyright © 2014–2016 [Kenneth Ormandy](http://kennethormandy.com)
