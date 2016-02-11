@@ -124,7 +124,7 @@
     'name': 'keyword.control.flow.AFDKO'
   'comment-line':
     'match': '(#).*$\\n?'
-    'name': 'comment.line.number-sign.AFDK0'
+    'name': 'comment.line.number-sign.AFDKO'
   'constant-number':
     'match': '(-|\\+)?\\s*[0-9]+(\\.[0-9]+)?'
     'name': 'constant.numeric.AFDKO'
