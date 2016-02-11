@@ -1,0 +1,4 @@
+'.source.AFDKO':
+  'editor':
+    'commentStart': '# '
+    'increaseIndentPattern': '(?x)^(\\s*(feature|lookup|anon(?:ymous)?|table)).*$'
