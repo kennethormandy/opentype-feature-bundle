@@ -1,6 +1,6 @@
 {
   "name": "opentype-feature-bundle",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Syntax highlighting and snippets for OpenType feature development in Atom.",
   "repository": "https://github.com/kennethormandy/opentype-feature-bundle",
   "keywords": [
